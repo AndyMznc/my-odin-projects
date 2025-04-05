@@ -9,10 +9,17 @@ The Odin Project is one of those "What I wish I had when I was learning" resourc
 ## 🌱 Foundations
 
 <details>
-   <summary><strong>Introduction</strong></summary>
+  <summary><strong>Introduction</strong></summary>
 
 - [x] How This Course Will Work
 - [x] Introduction to Web Development
-- [ ] Motivation and Mindset
-- [ ] Asking For Help
-- [ ] Join the Odin Community
+- [x] Motivation and Mindset
+- [x] Asking For Help
+- [x] Join the Odin Community
+</details>
+
+<details>
+  <summary><strong>Prerequisites </strong></summary>
+
+- [ ] Computer Basics
+</details>
