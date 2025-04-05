@@ -18,8 +18,17 @@ The Odin Project is one of those "What I wish I had when I was learning" resourc
 - [x] Join the Odin Community
 </details>
 
+<br>
+
 <details>
   <summary><strong>Prerequisites </strong></summary>
 
-- [ ] Computer Basics
+- [x] Computer Basics
+- [x] How Does the Web Work?
+- [x] Installation Overview
+- [x] Installations
+- [x] Text Editors
+- [ ] Command Line Basics
+- [ ] Setting up Git
+
 </details>
