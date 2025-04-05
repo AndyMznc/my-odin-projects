@@ -9,26 +9,41 @@ The Odin Project is one of those "What I wish I had when I was learning" resourc
 ## 🌱 Foundations
 
 <details>
-  <summary><strong>Introduction</strong></summary>
+<summary><strong>Lesson tracking</strong></summary>
+
+<br>
+
+<strong>Introduction</strong>
 
 - [x] How This Course Will Work
 - [x] Introduction to Web Development
 - [x] Motivation and Mindset
 - [x] Asking For Help
 - [x] Join the Odin Community
-</details>
 
 <br>
 
-<details>
-  <summary><strong>Prerequisites </strong></summary>
+<strong>Prerequisites</strong>
 
 - [x] Computer Basics
 - [x] How Does the Web Work?
 - [x] Installation Overview
 - [x] Installations
 - [x] Text Editors
-- [ ] Command Line Basics
-- [ ] Setting up Git
+- [x] Command Line Basics
+- [x] Setting up Git
+
+<br>
+
+<strong>Git Basics</strong>
+
+- [x] Introduction to Git
+- [x] Git Basics
+
+<br>
+
+<strong>HTML Foundations</strong>
+
+- [ ] Introduction to HTML and CSS
 
 </details>
