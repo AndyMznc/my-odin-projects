@@ -51,6 +51,14 @@
 - [x] Lists
 - [x] Links and Images
 - [x] Commit Messages
-- [ ] 🛠️ Project: Recipes
+- [x] 🛠️ Project: Recipes
+
+<strong>CSS Foundations</strong>
+
+- [x] Intro to CSS
+- [x] The Cascade
+- [x] Inspecting HTML and CSS
+- [x] The Box Model
+- [ ] Block and Inline
 
 </details>
