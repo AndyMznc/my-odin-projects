@@ -59,6 +59,13 @@
 - [x] The Cascade
 - [x] Inspecting HTML and CSS
 - [x] The Box Model
-- [ ] Block and Inline
+- [x] Block and Inline
+
+<strong>Flexbox</strong>
+
+- [x] Introduction to Flexbox
+- [x] Growing and Shrinking
+- [x] Axes
+- [ ] Alignment (WIP : Exercise 01 to 03 completed)
 
 </details>
