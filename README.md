@@ -66,6 +66,6 @@
 - [x] Introduction to Flexbox
 - [x] Growing and Shrinking
 - [x] Axes
-- [ ] Alignment (WIP : Exercise 01 to 03 completed)
+- [x] Alignment
 
 </details>
